@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Projects\\Win64_PocketSphinx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CE25EB-6A5D-47D5-9243-34400B852301}|Win64_PocketSphinx\\Win64_PocketSphinx.vcxproj|D:\\_Projects\\Win64_PocketSphinx\\Win64_PocketSphinx\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0CE25EB-6A5D-47D5-9243-34400B852301}|Win64_PocketSphinx\\Win64_PocketSphinx.vcxproj|solutionrelative:Win64_PocketSphinx\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "D:\\_Projects\\Win64_PocketSphinx\\Win64_PocketSphinx\\Main.c",
+              "RelativeDocumentMoniker": "Win64_PocketSphinx\\Main.c",
+              "ToolTip": "D:\\_Projects\\Win64_PocketSphinx\\Win64_PocketSphinx\\Main.c",
+              "RelativeToolTip": "Win64_PocketSphinx\\Main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-18T07:14:29.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
